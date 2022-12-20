@@ -10,5 +10,6 @@ public class Main {
         brand.name="BMW";
 
         System.out.println(brand.name);
+        System.out.println("this is the new version we are adding it");
     }
 }
