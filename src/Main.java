@@ -5,5 +5,10 @@ public class Main {
        xx.moon=1;
        xx.sun=1;
        xx.planet=2;
+
+       Car brand = new Car();
+        brand.name="BMW";
+
+        System.out.println(brand.name);
     }
 }
